@@ -32,7 +32,7 @@
     <br>
     <br>
     <div class="footer">
-        <p>© 2019 INOCHI.DEPT ORIGINAL MADE IN MALANG</p>
+        <p>© 2019 AMAN.DEPT ORIGINAL MADE IN MALANG</p>
     </div>
 </body>
 

@@ -11,7 +11,7 @@ if($cek > 0) {
     session_start();
     $_SESSION['username'] = $username;
     $_SESSION['status']   = "login";
-    header("location:../admin/index.php");
+    header("location:../User/indexU.php");
 } else {
     echo "<script text/javascript>alert('Username atau Password salah!');
             window.location='../index.php';</script>";
